@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-akryl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/template": "^7.7.4",
+    "@babel/types": "^7.7.4"
+  }
+}
